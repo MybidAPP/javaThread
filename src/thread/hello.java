@@ -9,7 +9,7 @@ public class hello extends Thread{
 		// TODO Auto-generated method stub
 		super.run();
 		for(int i=0;i<5;i++)
-		System.out.printf(name+i+"hello world\n");
+		System.out.printf(name+i+"hello worldtest\n");
 	}
    public static void main(String str[])
    {
